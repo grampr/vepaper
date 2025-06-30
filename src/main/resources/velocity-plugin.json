@@ -1,0 +1,8 @@
+{
+  "id": "vepaper",
+  "name": "Vepaper",
+  "version": "1.12.4",
+  "authors": ["nehaverse"],
+  "url": "https://github.com/nehaverse/vepaper",
+  "main": "net.nehaverse.vepaper.Vepaper"
+}
